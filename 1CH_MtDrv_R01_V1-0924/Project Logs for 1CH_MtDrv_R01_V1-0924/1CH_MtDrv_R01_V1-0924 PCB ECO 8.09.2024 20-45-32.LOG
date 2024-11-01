@@ -1,0 +1,57 @@
+Added Component: Designator=U7(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=104564"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=104564"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M24C01-WMN6TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M24C01-WMN6TP/STMicroelectronics/view-part/104564/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UCC27201ADR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UCC27201ADR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/UCC27201ADR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UCC27201ADR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UCC27201ADR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UCC27201ADR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/UCC27201ADR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UCC27201ADR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=I2C_EEPROM_SDA Pin=U7-5
+Added Pin To Net: NetName=I2C_EEPROM_SCL Pin=U7-6
+Added Pin To Net: NetName=I2C_EEPROM_WP Pin=U7-7
+Added Pin To Net: NetName=+3v3 Pin=U7-8
+Added Pin To Net: NetName=+12V Pin=U9-1
+Added Pin To Net: NetName=NetC31_1 Pin=U9-2
+Added Pin To Net: NetName=NetR25_1 Pin=U9-3
+Added Pin To Net: NetName=NetC31_2 Pin=U9-4
+Added Pin To Net: NetName=PWM_H1 Pin=U9-5
+Added Pin To Net: NetName=PWM_L1 Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Pin To Net: NetName=NetR27_1 Pin=U9-8
+Added Pin To Net: NetName=+12V Pin=U10-1
+Added Pin To Net: NetName=NetC32_1 Pin=U10-2
+Added Pin To Net: NetName=NetR26_1 Pin=U10-3
+Added Pin To Net: NetName=NetC32_2 Pin=U10-4
+Added Pin To Net: NetName=PWM_H2 Pin=U10-5
+Added Pin To Net: NetName=PWM_L2 Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Pin To Net: NetName=NetR28_1 Pin=U10-8
+Added Member To Class: ClassName=MCU Peripherals Member=Component U7 M24C01-WMN6TP
+Added Member To Class: ClassName=Motor Drivers Member=Component U9 UCC27201ADR
+Added Member To Class: ClassName=Motor Drivers Member=Component U10 UCC27201ADR

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=SYS_TEMP Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Member From Class: ClassName=MCU And Peripherals Member=D2
+Removed Member From Class: ClassName=MCU And Peripherals Member=J2
+Removed Member From Class: ClassName=MCU Peripherals Member=R12
+Removed Member From Class: ClassName=Motor Drivers Member=R20
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Added Pin To Net: NetName=SYS_TEMP Pin=J2-6
+Change Net Name : Old Net Name=NetJ3_8 New Net Name=NetJ2_8
+Change Net Name : Old Net Name=NetJ3_9 New Net Name=NetJ2_9
+Added Member To Class: ClassName=Power Regulators Member=Component C6 1µF
+Added Member To Class: ClassName=Power Regulators Member=Component D1 LTST-C190TGKT
+Added Member To Class: ClassName=Power Regulators Member=Component D2 SS26-E3_52T
+Added Member To Class: ClassName=MCU And Peripherals Member=Component D5 LTST-C190TGKT
+Added Member To Class: ClassName=Power Regulators Member=Component R4 100 kOhms
+Added Member To Class: ClassName=Power Regulators Member=Component R5 5.23 kOhms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R7 330 Ohms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R9 4.7 kOhms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R11 0 Ohms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R13 1 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R15 12.1 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R17 51 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R19 100 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R21 10 kOhms
+Added Member To Class: ClassName=Motor Drivers Member=Component R24 47 Ohms
+Added Member To Class: ClassName=Motor Drivers Member=Component R27 47 Ohms

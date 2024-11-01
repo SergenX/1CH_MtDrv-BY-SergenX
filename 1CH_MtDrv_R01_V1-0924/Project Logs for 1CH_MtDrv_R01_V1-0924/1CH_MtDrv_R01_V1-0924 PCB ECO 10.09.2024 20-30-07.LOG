@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=PWM_H2 Pin=U4-18
+Removed Pin From Net: NetName=PWM_L2 Pin=U4-19
+Removed Pin From Net: NetName=RUN Pin=U4-27
+Removed Pin From Net: NetName=FAULT Pin=U4-28
+Removed Pin From Net: NetName=RS485_TX Pin=U4-30
+Removed Pin From Net: NetName=RS485_RX Pin=U4-31
+Removed Pin From Net: NetName=BRAKE_EN Pin=U4-38
+Removed Pin From Net: NetName=PWM_H1 Pin=U4-40
+Removed Pin From Net: NetName=PWM_L1 Pin=U4-41
+Removed Pin From Net: NetName=CAN_S Pin=U4-43
+Removed Member From Class: ClassName=MCU And Peripherals Member=D6
+Removed Member From Class: ClassName=MCU And Peripherals Member=R13
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Added Pin To Net: NetName=CAN_S Pin=U4-2
+Added Pin To Net: NetName=RUN Pin=U4-3
+Added Pin To Net: NetName=FAULT Pin=U4-4
+Added Pin To Net: NetName=BRAKE_EN Pin=U4-25
+Added Pin To Net: NetName=PWM_L1 Pin=U4-26
+Added Pin To Net: NetName=PWM_L2 Pin=U4-27
+Added Pin To Net: NetName=PWM_H1 Pin=U4-29
+Added Pin To Net: NetName=PWM_H2 Pin=U4-30
+Added Pin To Net: NetName=RS485_TX Pin=U4-42
+Added Pin To Net: NetName=RS485_RX Pin=U4-43
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR26_1

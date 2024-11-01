@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=MCU Peripherals Member=R11
+Removed Member From Class: ClassName=Motor Drivers Member=R19
+Added Member To Class: ClassName=Power Regulators Member=Component C8 0.1µF
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R8 4.7 kOhms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R9 0 Ohms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R12 1 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R14 12.1 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R16 51 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R18 100 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R20 10 kOhms
+Added Member To Class: ClassName=Motor Drivers Member=Component R22 54.9 kOhms
+Added Member To Class: ClassName=Motor Drivers Member=Component R24 47 Ohms
+Added Member To Class: ClassName=Motor Drivers Member=Component R26 47 Ohms
+Added Member To Class: ClassName=Motor Drivers Member=Component R28 330 Ohms
+Added Member To Class: ClassName=Motor Drivers Member=Component R30 10 kOhms

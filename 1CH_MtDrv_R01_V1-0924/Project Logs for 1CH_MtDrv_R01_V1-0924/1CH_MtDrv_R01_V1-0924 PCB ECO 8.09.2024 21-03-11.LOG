@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetC31_2 Pin=Q1-3
+Added Pin To Net: NetName=NetC32_2 Pin=Q2-3
+Added Pin To Net: NetName=NetC31_2 Pin=Q3-2
+Added Pin To Net: NetName=NetC32_2 Pin=Q4-2
+Added Member To Class: ClassName=Power Regulators Member=Component C2 0.1µF
+Added Member To Class: ClassName=Motor Drivers Member=Component J4 282856-2
+Added Member To Class: ClassName=Motor Drivers Member=Component J5 282856-2
+Added Member To Class: ClassName=MCU Peripherals Member=Component R17 51 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R18 51 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R19 100 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R20 100 kOhms

@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC5_1
+Added Member To Class: ClassName=Power Regulators Member=Component D1 LTST-C190TGKT
+Added Member To Class: ClassName=Power Regulators Member=Component D2 SS26-E3_52T
+Added Member To Class: ClassName=MCU And Peripherals Member=Component D5 LTST-C190TGKT
+Added Member To Class: ClassName=Power Regulators Member=Component R4 100 kOhms
+Added Member To Class: ClassName=Power Regulators Member=Component R5 5.23 kOhms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R7 330 Ohms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R9 4.7 kOhms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R11 0 Ohms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R13 1 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R15 12.1 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R17 51 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R19 100 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R21 10 kOhms
+Added Member To Class: ClassName=Motor Drivers Member=Component R24 47 Ohms

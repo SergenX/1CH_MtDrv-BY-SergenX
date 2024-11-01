@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=+VBUS Pin=J5-2
+Removed Pin From Net: NetName=NetJ5_1 Pin=Q5-3
+Added Component: Designator=Q6(TO-252)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SUD50P04-08-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sud50p04-08-ge3/vishay?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/65594/sud50p04-08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.38mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SUD50P04-08-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "781-SUD50P04-08-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SUD50P04-08-GE3?qs=WX95TUc1y56BTDQkv3VCeQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R30(0603_RES)
+Added Component: Designator=R31(0603_RES)
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=NetJ5_1 Pin=Q6-2
+Added Pin To Net: NetName=+VBUS Pin=Q6-3
+Added Pin To Net: NetName=NetJ5_1 Pin=R31-1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R30-1
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R30-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R31-2
+Added Net: Name=NetQ6_1
+Added Member To Class: ClassName=Motor Drivers Member=Component Q6 SUD50P04-08-GE3
+Added Member To Class: ClassName=Motor Drivers Member=Component R30 100 Ohms
+Added Member To Class: ClassName=Motor Drivers Member=Component R31 10 kOhms

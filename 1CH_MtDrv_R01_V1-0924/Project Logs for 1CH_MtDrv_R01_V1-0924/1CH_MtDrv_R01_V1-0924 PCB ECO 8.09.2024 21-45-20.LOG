@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=+5V Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Member From Class: ClassName=Power Regulators Member=D3
+Removed Member From Class: ClassName=Power Regulators Member=R6
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR27_1

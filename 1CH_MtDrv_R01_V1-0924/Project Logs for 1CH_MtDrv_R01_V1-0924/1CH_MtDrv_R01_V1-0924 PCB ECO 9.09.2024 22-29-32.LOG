@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=+12V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+12V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=NetC7_2 Pin=U3-2
+Removed Pin From Net: NetName=+VBUS Pin=U3-3
+Removed Pin From Net: NetName=NetC7_1 Pin=U3-6
+Removed Member From Class: ClassName=Power Regulators Member=C10
+Removed Member From Class: ClassName=Power Regulators Member=C11
+Change Component Footprint: Designator=U3 Old Footprint=SOT95P280X110-6N New Footprint=SOT95P280X125-6N
+Change Component Footprint: Designator=L2 Old Footprint=WE-LHMI_8030 New Footprint=INDPM6965X300N
+Change Component Comment : Designator=C8 Old Comment=2.2µF New Comment=4.7 µF 50V
+Change Component Comment : Designator=R5 Old Comment=5.23 kOhms New Comment=3.3 kOhms
+Change Component Comment : Designator=R4 Old Comment=100 kOhms New Comment=47 kOhms
+Change Component Comment : Designator=L2 Old Comment=74437356068 New Comment=IHLP2525CZER220M8A
+Change Component Comment : Designator=U3 Old Comment=LMR51430YDDCR New Comment=AOZ1282CI
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C12 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C14
+Change Component Designator: OldDesignator=C17 NewDesignator=C15
+Change Component Designator: OldDesignator=C18 NewDesignator=C16
+Change Component Designator: OldDesignator=C19 NewDesignator=C17
+Change Component Designator: OldDesignator=C20 NewDesignator=C18
+Change Component Designator: OldDesignator=C21 NewDesignator=C19
+Change Component Designator: OldDesignator=C22 NewDesignator=C20
+Change Component Designator: OldDesignator=C23 NewDesignator=C21
+Change Component Designator: OldDesignator=C24 NewDesignator=C22
+Change Component Designator: OldDesignator=C25 NewDesignator=C23
+Change Component Designator: OldDesignator=C26 NewDesignator=C24
+Change Component Designator: OldDesignator=C27 NewDesignator=C25
+Change Component Designator: OldDesignator=C28 NewDesignator=C26
+Change Component Designator: OldDesignator=C29 NewDesignator=C27
+Change Component Designator: OldDesignator=C30 NewDesignator=C28
+Change Component Designator: OldDesignator=C31 NewDesignator=C29
+Change Component Designator: OldDesignator=C32 NewDesignator=C30
+Change Component Designator: OldDesignator=C33 NewDesignator=C31
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q5
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R31
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change component parameters: Designator = "L2" ("L2"); Footprint = "WE-LHMI_8030"; UniqueID = "\QMIMXYBM" ("\QMIMXYBM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "IHLP2525CZER220M8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ihlp2525czer220m8a/vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/IHLP2525CZER220M8A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IHLP2525CZER220M8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "70-IHLP2525CZR220M8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/IHLP2525CZER220M8A?qs=ei%2FvZTf36ZyKyW60gc1ORQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOT95P280X110-6N"; UniqueID = "\AXVHJAAY" ("\AXVHJAAY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "AOZ1282CI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aoz1282ci/alpha-and-omega-semiconductor?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.aosmd.com/res/data_sheets/AOZ1282CI.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Alpha & Omega Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AOZ1282CI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIOM5436X244N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SS26-E3/52T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ss26-e352t/vishay?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/SS26-E3_52T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.44mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS26-E3/52T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "625-SS26-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SS26-E3-52T?qs=x2jpVgRnAtNToatHaCRUvw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetC7_1 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=+VBUS Pin=U3-4
+Added Pin To Net: NetName=NetC7_2 Pin=U3-6
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC22_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC31_1 New Net Name=NetC29_1
+Change Net Name : Old Net Name=NetC31_2 New Net Name=NetC29_2
+Change Net Name : Old Net Name=NetC32_1 New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetC32_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ5_3 New Net Name=NetQ6_3
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ5_1
+Added Pin To Net: NetName=FB_12V Pin=R4-1
+Added Pin To Net: NetName=FB_12V Pin=R5-2
+Added Pin To Net: NetName=FB_12V Pin=U3-3
+Added Net: Name=FB_12V
+Added Member To Class: ClassName=Power Regulators Member=Component D3 SS26-E3_52T

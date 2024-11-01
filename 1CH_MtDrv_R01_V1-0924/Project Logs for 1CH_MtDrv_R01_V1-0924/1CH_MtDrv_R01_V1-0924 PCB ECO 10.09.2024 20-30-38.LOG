@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC8_2
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R8 4.7 kOhms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R9 0 Ohms
+Added Member To Class: ClassName=MCU And Peripherals Member=Component R12 1 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R14 12.1 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R16 51 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R18 100 kOhms
+Added Member To Class: ClassName=MCU Peripherals Member=Component R20 10 kOhms
+Added Member To Class: ClassName=Motor Drivers Member=Component R22 54.9 kOhms
+Added Member To Class: ClassName=Motor Drivers Member=Component R24 47 Ohms
+Added Member To Class: ClassName=Motor Drivers Member=Component R26 47 Ohms
+Added Member To Class: ClassName=Motor Drivers Member=Component R28 330 Ohms
